@@ -29,7 +29,7 @@ public class CinZodyagi {
                 System.out.println("Burcunuz Fare" );
                 break;
             case 6:
-                System.out.println("burcunuz öküz");
+                System.out.println("Burcunuz Öküz" );
                 break;
             case 7:
                 System.out.println("burcunuz kaplan");
