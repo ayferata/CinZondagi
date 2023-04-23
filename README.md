@@ -5,7 +5,7 @@ public class CinZodyagi {
     public static void main(String[] args) {
     
         Scanner inp = new Scanner(System.in);
-        System.out.println("doğum yılınızı giriniz");
+        System.out.println("Doğum Yılınızı Giriniz " );
         int yil = inp.nextInt();
         int kalan = yil % 12;
         switch (kalan) {
