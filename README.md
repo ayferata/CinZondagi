@@ -35,7 +35,7 @@ public class CinZodyagi {
                 System.out.println("Burcunuz Kaplan" );
                 break;
             case 8:
-                System.out.println("burcunuz tavşan");
+                System.out.println("Burcunuz Tavşan" );
                 break;
             case 9:
                 System.out.println("burcunuz ejderha");
