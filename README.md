@@ -20,7 +20,7 @@ public class CinZodyagi {
                 System.out.println("Burcunuz Köpek" );
                 break;
             case 3:
-                System.out.println("burcunuz d0muz");
+                System.out.println("Burcunuz Domuz");
                 break;
             case 4:
                 System.out.println("burcunuz maymun");
