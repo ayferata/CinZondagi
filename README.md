@@ -14,40 +14,40 @@ public class CinZodyagi {
                 System.out.println("Burcunuz: Maymun" );
                 break;
             case 1:
-                System.out.println("Burcunuz Horoz" );
+                System.out.println("Burcunuz: Horoz" );
                 break;
             case 2:
-                System.out.println("Burcunuz Köpek" );
+                System.out.println("Burcunuz: Köpek" );
                 break;
             case 3:
-                System.out.println("Burcunuz Domuz" );
+                System.out.println("Burcunuz: Domuz" );
                 break;
             case 4:
-                System.out.println("Burcunuz Maymun" );
+                System.out.println("Burcunuz: Maymun" );
                 break;
             case 5:
-                System.out.println("Burcunuz Fare" );
+                System.out.println("Burcunuz: Fare" );
                 break;
             case 6:
-                System.out.println("Burcunuz Öküz" );
+                System.out.println("Burcunuz: Öküz" );
                 break;
             case 7:
-                System.out.println("Burcunuz Kaplan" );
+                System.out.println("Burcunuz: Kaplan" );
                 break;
             case 8:
-                System.out.println("Burcunuz Tavşan" );
+                System.out.println("Burcunuz: Tavşan" );
                 break;
             case 9:
-                System.out.println("Burcunuz Ejderha" );
+                System.out.println("Burcunuz: Ejderha" );
                 break;
             case 10:
-                System.out.println("Burcunuz Yılan" );
+                System.out.println("Burcunuz: Yılan" );
                 break;
             case 11:
-                System.out.println("Burcunuz At" );
+                System.out.println("Burcunuz: At" );
                 break;
             case 12:
-                System.out.println("Burcunuz Koyun" );
+                System.out.println("Burcunuz: Koyun" );
         }
 
     }
