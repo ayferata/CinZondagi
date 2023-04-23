@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class CinZodyagi {
     public static void main(String[] args) {
+    
         Scanner inp = new Scanner(System.in);
         System.out.println("doğum yılınızı giriniz");
         int yil = inp.nextInt();
