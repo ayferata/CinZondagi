@@ -32,7 +32,7 @@ public class CinZodyagi {
                 System.out.println("Burcunuz Öküz" );
                 break;
             case 7:
-                System.out.println("burcunuz kaplan");
+                System.out.println("Burcunuz Kaplan" );
                 break;
             case 8:
                 System.out.println("burcunuz tavşan");
