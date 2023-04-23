@@ -20,10 +20,10 @@ public class CinZodyagi {
                 System.out.println("Burcunuz Köpek" );
                 break;
             case 3:
-                System.out.println("Burcunuz Domuz");
+                System.out.println("Burcunuz Domuz" );
                 break;
             case 4:
-                System.out.println("burcunuz maymun");
+                System.out.println("Burcunuz Maymun" );
                 break;
             case 5:
                 System.out.println("burcunuz fare");
