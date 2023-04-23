@@ -14,7 +14,7 @@ public class CinZodyagi {
                 System.out.println("Burcunuz: Maymun" );
                 break;
             case 1:
-                System.out.println("burcunuz horoz");
+                System.out.println("Burcunuz Horoz" );
                 break;
             case 2:
                 System.out.println("burcunuz köpek");
