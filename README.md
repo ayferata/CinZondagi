@@ -26,7 +26,7 @@ public class CinZodyagi {
                 System.out.println("Burcunuz Maymun" );
                 break;
             case 5:
-                System.out.println("burcunuz fare");
+                System.out.println("Burcunuz Fare" );
                 break;
             case 6:
                 System.out.println("burcunuz öküz");
