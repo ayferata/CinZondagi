@@ -5,12 +5,13 @@ public class CinZodyagi {
     public static void main(String[] args) {
     
         Scanner inp = new Scanner(System.in);
-        System.out.println("Doğum Yılınızı Giriniz " );
+        System.out.println("Doğum Yılınızı Giriniz" );
         int yil = inp.nextInt();
         int kalan = yil % 12;
         switch (kalan) {
+        
             case 0:
-                System.out.println("burcunuz maymun");
+                System.out.println("Burcunuz: Maymun" );
                 break;
             case 1:
                 System.out.println("burcunuz horoz");
